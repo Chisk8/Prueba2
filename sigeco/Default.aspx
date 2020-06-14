@@ -11,7 +11,7 @@
                             <dx:TreeViewNode Text="ASP" Image-Url="images/asp.png" />
                             <dx:TreeViewNode Text="Announcements" Image-Url="images/announce.png" />
                             <dx:TreeViewNode Text="IDE Tools" Image-Url="images/ide.png" />
-                            <dx:TreeViewNode Text="Frameworks" Image-Url="images/frame.png" />
+                            <dx:TreeViewNode Text="Frameworkses" Image-Url="images/frame.png" />
                         </Nodes>
                     </dx:TreeViewNode>
                     <dx:TreeViewNode Text="Sent Items" Enabled="false" Image-Url="images/sent.png" />
